@@ -6,3 +6,4 @@ Projeto destinado a exposição dos conteúdos apresentados em sala de aula para
 ## Aulas
 
 - [Aulas 1 e 2](https://github.com/fabriciojuniors/aulas/tree/main/Aula%201%20e%202)
+- [Aula 3](https://github.com/fabriciojuniors/aulas/tree/main/Aula%203)
