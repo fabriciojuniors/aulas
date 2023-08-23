@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#conteudo {
+    width: 500px;
+    height: 100px;
+    background-color: red;
+
+    cursor: progress;
+}
+
+.btn {
+    float: right;
+    visibility: hidden;
+}
+
+div {
+    color: white;
+    background-color: blue;
+
+    /* width: 250px;
+    height: 500px; */
+
+    /* max-height: 350px; */
+    /* max-width: 200px; */
+    /* overflow-y: scroll;
+    overflow-x: scroll; */
+    /* overflow: scroll; */
+
+    
+
+    /* margin: 10px; */
+    /* margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px; */
+
+    /* margin: 10px 25px;
+    margin: 20px 25px 30px 35px; */
+
+     padding: 30px;
+
+    /*padding-top: 50px;
+    padding-right: 60px; */
+
+
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: blue; */
+
+    /* border: 5px solid pink; */
+
+    /* border-width: 5px; */
+    /* border-top-width: 5px; */
+    /* border-top-style: dotted;
+    border-top-color: black; */
+
+    /* border-bottom-width: 5px; */
+    /* border-bottom-style: solid;
+    border-bottom-color: blue; */
+
+    /* border-radius: 15px; */
+
+
+}
+
+tr, td, th {
+    /* border: 1px solid black; */
+}
+
+table {
+    /* border-collapse: collapse; */
+}
+
+li {
+    /* margin-left: 25px; */
+    list-style: "👉";
+    /* word-wrap: normal; */
+}
