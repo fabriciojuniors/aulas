@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.bloco {
+    width: 100px;
+    height: 100px;
+}
+
+.conteudo {
+    background-color: black;
+    /*flex, block, none*/
+    display: flex;
+
+    /*VALORES POSSÍVEIS: ROW, ROW-REVERSE, COLUMN, COLUMN-REVERSE*/
+    flex-direction: row;
+    gap: 20px;
+    justify-content: space-evenly;
+    flex-wrap: wrap-reverse;
+}
+
+@media (min-width: 750px) {
+    .conteudo {
+        background-color: green;
+    }
+}
